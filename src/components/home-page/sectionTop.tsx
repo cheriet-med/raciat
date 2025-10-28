@@ -10,9 +10,9 @@ import Image from 'next/image';
 const HotelSearchHomepage = lazy(() => import('@/components/header/searchHotelforHomepage'));
 const RestaurantSearch = lazy(() => import("@/components/header/SearchRestaurant"));
 const slides = [
-  { id: 1, src: "/bg/9.jpg", alt: "Slide 1" },
-  { id: 2, src: "/bg/7.jpg", alt: "Slide 2" },
-  { id: 3, src: "/bg/17.jpg", alt: "Slide 3" },
+  { id: 1, src: "/bg/9.webp", alt: "Slide 1" },
+  { id: 2, src: "/bg/7.webp", alt: "Slide 2" },
+  { id: 3, src: "/bg/17.webp", alt: "Slide 3" },
 ];
 
 export default function FullscreenSlider() {

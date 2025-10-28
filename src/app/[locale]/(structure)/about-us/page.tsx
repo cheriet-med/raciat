@@ -23,7 +23,7 @@ export default function About () {
             </div>
        <div className="relative bg-primary h-96 lg:h-full w-full">
   <Image
-    src="/bg/13.jpg" // ✅ replace with your image path
+    src="/bg/13.webp" // ✅ replace with your image path
     alt="Background"
     fill
     className="object-cover"
@@ -35,7 +35,7 @@ export default function About () {
 
                  <div className="relative bg-primary h-96 lg:h-full w-full">
   <Image
-    src="/bg/19.jpg" // ✅ replace with your image path
+    src="/bg/19.webp" // ✅ replace with your image path
     alt="Background"
     fill
     className="object-cover"

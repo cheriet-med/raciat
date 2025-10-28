@@ -100,7 +100,7 @@ export default function Home () {
       <video
         ref={videoRef}
         className="absolute inset-0 w-full h-full object-cover object-bottom"
-        src="/view.mp4" // ✅ replace with your video path
+        src="/section.mp4" // ✅ replace with your video path
         autoPlay
         loop
         muted

@@ -159,7 +159,7 @@ const ContactPage: React.FC = () => {
   };
 
   return (
-      <div className="relative isolate bg-[url('/bg/12.jpg')] bg-no-repeat bg-center bg-cover overflow-auto font-montserrat">
+      <div className="relative isolate bg-[url('/bg/12.webp')] bg-no-repeat bg-center bg-cover overflow-auto font-montserrat">
       {/* Header Section */}
       <div>
         <div className="flex flex-col px-4 text-center items-center justify-center  lg:mb-14 bg-yel h:96 lg:h-60 pt-40 pb-16  lg:pt-16 rounded-b-3xl text-bl opacity-90">

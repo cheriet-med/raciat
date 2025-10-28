@@ -182,7 +182,7 @@ const handleFacebookleLogin = () => {
   };
 
   return (
-    <div className="fixed inset-0 bg-[url('/bg/19.jpg')] bg-no-repeat bg-center bg-cover overflow-auto">
+    <div className="fixed inset-0 bg-[url('/bg/19.webp')] bg-no-repeat bg-center bg-cover overflow-auto">
       <div className="min-h-screen flex items-center justify-center p-4 font-montserrat">
         <form 
           onSubmit={handleSubmit} 
