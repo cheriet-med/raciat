@@ -118,13 +118,13 @@ export async function generateMetadata({
     title: "راسيات الماسية العقارية",
     description: "راسيات الماسية العقارية",
     url:  `${process.env.NEXT_PUBLIC_HOME}/` ,
-    siteName: "Padlev",
+    siteName: "راسيات الماسة العقاؤية",
     images: [
       {
-        url: `${process.env.NEXT_PUBLIC_HOME}/og/og.png`,
+        url: `${process.env.NEXT_PUBLIC_HOME}/bg/7.webp`,
         width: 1200,
         height: 630,
-        alt: t('global-og-title'),
+        alt: "راسيات الماسة العقاؤية",
       },
     ],
     locale: "en_US",
